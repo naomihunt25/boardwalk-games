@@ -33,6 +33,7 @@ h3 {
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
+
 /* Navbar */
 
 #navbar {
@@ -44,6 +45,7 @@ h3 {
 }
 
 /* Header */
+
 #header .lead {
     font-family: var(--secondary-font);
 }
